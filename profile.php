@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Your Home Page</title>
+<title>Halaman Depan Anda</title>
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
